@@ -51,7 +51,7 @@ $combinations = array(
 	"price" => array("200$", "250$", "300$", "350$", "400$", "450$", "500$", "600$"),
 	"activates" => array("activates", "works", "functions", "breaks"),
 	"says" => array("says", "tweets", "claims", "confirms", "denies"),
-	"enormous" => array("big", "large", "huge", "gigantic", "enormous")
+	"enormous" => array("big", "large", "huge", "gigantic", "n enormous")
 );
 $sentences = array(
 	"[people] launched a DoS attack on the website of [things]",
